@@ -1,9 +1,9 @@
 {
 	"friends": [
 		{
-			"name": "Doug Engelbart",
-			"description": "Has awesome pet mice",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Douglas_Engelbart_in_2008.jpg/972px-Douglas_Engelbart_in_2008.jpg"			
+			"name": "Anthony Yu",
+			"description": "Finicky Feaster",
+			"imageURL": "https://pbs.twimg.com/media/CT_HQpdWcAEn2C0.jpg"			
 		},
 		{
 			"name": "Ivan Sutherland",
@@ -18,17 +18,17 @@
 		{
 			"name": "Vannevar Bush",
 			"description": "Has stellar associative memory",
-			"imageURL": "http://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
+			"imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg"			
 		},
 		{
 			"name": "Grace Hopper",
 			"description": "Only friend with a Navy ship named after them",
-			"imageURL": "http://www.personal.psu.edu/djd5202/gHop.jpg"
+			"imageURL": "http://ww2.kqed.org/mindshift/wp-content/uploads/sites/23/2014/10/grace-hopper_custom-7e094af0ae451cd447568fd03d9c89ba6bf8b352.jpg"
 		},
 		{
 			"name": "Allen Newell",
 			"description": "Really into psychology",
-			"imageURL": "http://www.nap.edu/html/biomems/photo/anewell.JPG"
+			"imageURL": "http://www.computerhistory.org/atchm/wp-content/uploads/2013/11/newell_102743971sm.jpg"
 		}
 	]
 }

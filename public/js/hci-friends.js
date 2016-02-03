@@ -10,6 +10,18 @@ $(document).ready(function() {
  */
 function initializePage() {
 	console.log("Javascript connected!");
+	$(".friend a").click(friendClick);
+}
+
+function friendClick(e) {
+	// Cancel the default action, which prevents the page from reloading
+    e.preventDefault();
+
+
+    var currName = $(this).text();
+    console.log(currName);
+    var newName = anagrammedName(currName);
+    $(this).text(newName);
 }
 
 function anagrammedName(name) {
@@ -38,6 +50,9 @@ function anagrammedName(name) {
 	}
 	else if (name == "Grace Hopper") {
 		return "Gear Chopper";
+	}
+	else if (name == "Anthony Yu") {
+		return "Yuthony An"
 	}
 	else {
 		console.log(name + " not known for anagramming.");
